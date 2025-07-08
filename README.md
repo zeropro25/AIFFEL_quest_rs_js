@@ -1,4 +1,4 @@
-  AIFFEL 레포
+#  AIFFEL 레포
 
 📖 **AIFFEL 과정 중 진행하는 리서치 프로젝트 및 피어 리뷰를 관리하는 Repository**입니다.  
 💡 다양한 탐색과 실험을 통해 얻은 인사이트를 기록하고 공유하는 💬 공간입니다.  
@@ -7,7 +7,7 @@
 ---
 
 ## 📁 폴더 구조
-
+```
 AIFFEL_quest_rs/
 ├── README.md
 ├── Exploration/
@@ -103,3 +103,4 @@ AIFFEL_quest_rs/
 └── Quest05/
 ├── mainquest5.ipynb
 └── README.md# AIFFEL Campus Online Code Peer Review Templete 
+```
